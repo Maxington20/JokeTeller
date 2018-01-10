@@ -32,7 +32,7 @@ namespace JokeTellerImproved
 					setup = "Who shot the sherrif?";
 					break;
 				case 3:
-					setup = "I almost had a 3some last night.";
+					setup = "What is every parents' favourite Christmas song?";
 					break;
 				case 4:
 					setup = "What's black, white, and read all over?";
@@ -57,8 +57,8 @@ namespace JokeTellerImproved
 				case "Who shot the sherrif?":
 					punchLine = "Certainly not Bob Marley!";
 					break;
-				case "I almost had a 3some last night.":
-					punchLine = "I just needed two more people!";
+				case "What is every parents' favourite Christmas song?":
+					punchLine = "Silent Night";
 					break;
 				case "What's black, white, and read all over?":
 					punchLine = "A newspaper!";
